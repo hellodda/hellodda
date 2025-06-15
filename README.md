@@ -1,13 +1,17 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hellodda&show_icons=true&theme=blueberry&hide_title=true" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hellodda&theme=blueberry" alt="GitHub Streak" />
+  </a>
+</p>
 
----
-
-![NNN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellodda&show_icons=true&theme=radical&hide_title=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hellodda&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellodda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellodda&layout=compact&theme=blueberry" alt="Top Languages" />
+  </a>
+</p>
 
 
