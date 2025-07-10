@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hellodda&theme=blueberry&card_width=550" />
+  <img src="https://streak-stats.demolab.com?user=hellodda&theme=blueberry&card_width=551" />
 </p>
 
 <p align="center">
